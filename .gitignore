@@ -1,0 +1,13 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.swiftpm/
+
+# Generated
+AudioScribe.xcodeproj/
+
+# macOS
+.DS_Store
