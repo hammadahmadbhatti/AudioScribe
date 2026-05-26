@@ -2,7 +2,11 @@
 
 A universal iOS + macOS app that records or imports audio and produces a transcript on-device using [WhisperKit](https://github.com/argmaxinc/WhisperKit). No servers, no API keys, no audio leaves the device.
 
-This is **Part 1** of a two-part project. Part 2 (translation of transcripts) will be added later.
+AudioScribe is a Vibe Coded audio transcription and translation application designed to operate on macOS and iOS platforms. This application functions locally, eliminating the need for internet connectivity or data transfer, and requires only a one-time model download.
+
+AudioScribe addresses two primary challenges. Firstly, it serves as an effective tool for translating confidential information using an open-source model, thereby ensuring data privacy during translation processes. Secondly, it proves beneficial for individuals attending speeches, lectures, or conversations conducted in a foreign language. Users can gain a comprehensive understanding of such events through real-time transcription and translation capabilities. 
+
+Moreover, the application allows users to revisit audio recordings of conversations and lectures, ensuring that critical information is not overlooked. For instance, students attending university lectures can utilize this application to back up audio recordings and transcripts, thereby enhancing their ability to grasp complex concepts efficiently. Additionally, AudioScribe enables the transcription of pre-recorded video lectures into text format, facilitating a more rapid comprehension of materials pertinent to examinations.
 
 ---
 
